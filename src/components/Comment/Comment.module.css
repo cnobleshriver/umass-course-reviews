@@ -1,0 +1,31 @@
+.card {
+    margin-bottom: 20px;
+  }
+  
+  .cardTitle {
+    margin-bottom: 10px;
+  }
+  
+  .professor {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .date {
+    color: gray;
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    margin-left: 54px;
+    margin-top: 10px;
+  }
+  
+  .rating {
+    margin-right: 10px;
+  }
+  
+  .difficulty {
+    margin-right: 10px;
+  }

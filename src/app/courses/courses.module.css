@@ -1,0 +1,36 @@
+
+.container {
+    display: flex;
+    height: calc(100vh - 64px);
+    background-color: #1A1B1E;
+}
+
+.searchBox {
+    height: 100%;
+    width: 25%;
+    padding: 20px;
+    background-color: #1A1B1E;
+}
+
+.innerSearchBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.searchElement {
+    margin-bottom: 20px;
+}
+
+.leftIcon {
+    width: 18px;
+    height: 18px;
+}
+
+.courseContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 75%;
+    padding: 20px;
+}

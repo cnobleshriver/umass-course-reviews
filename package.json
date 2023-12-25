@@ -11,9 +11,12 @@
   "dependencies": {
     "@mantine/core": "7.3.2",
     "@mantine/hooks": "7.3.2",
+    "@tabler/icons-react": "^2.44.0",
+    "@types/next": "^9.0.0",
     "next": "14.0.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "vercel": "^33.0.1"
   },
   "devDependencies": {
     "@types/node": "20.8.10",
